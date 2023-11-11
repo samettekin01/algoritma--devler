@@ -26,8 +26,8 @@ Dizi = [7,3,5,8,2,9,4,15,6]
     5. [2,16,18,22,27,6]
     6. [2,6,16,18,22,27]
 
-### Insertion sort algoritmasında O(n^2) olur. Sıralama yaparken daha fazla zaman harcamış oluruz.
-### Dizi sıralandıktan sonra 18 sayısının Time Complexity: Average case olur.
+ Insertion sort algoritmasında O(n^2) olur. Sıralama yaparken daha fazla zaman harcamış oluruz.
+ Dizi sıralandıktan sonra 18 sayısının Time Complexity: Average case olur.
 
 ## Selection Sort:
 Dizi = [7,3,5,8,2,9,4,15,6]
